@@ -1,0 +1,18 @@
+{
+    "appKeys": {},
+    "versionCode": 1,
+    "longName": "test_proj",
+    "shortName": "test_proj",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "chrisp.schafer@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    },
+    "uuid": "53ecc132-7a21-4377-b1c6-b36d6347c49c"
+}
